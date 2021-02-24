@@ -20,5 +20,5 @@ My configuration for mpv, mostly used for watching anime.
 
 * [FSRCNNX](https://github.com/igv/FSRCNN-TensorFlow/releases)
 * [KrigBilateral](https://gist.github.com/igv/a015fc885d5c22e6891820ad89555637)
+* [SSimDownscaler](https://gist.github.com/igv/36508af3ffc84410fe39761d6969be10)
 * [Static Noise Luma](https://pastebin.com/yacMe6EZ)
-* [ravu-r3](https://github.com/bjin/mpv-prescalers)
