@@ -14,6 +14,8 @@ My configuration for mpv, mostly used for watching anime.
 * [repl](https://github.com/rossy/mpv-repl)
 * [status-line](https://github.com/mpv-player/mpv/blob/master/TOOLS/lua/status-line.lua)
 * [visualizer](https://github.com/mfcc64/mpv-scripts/blob/master/visualizer.lua)
+* [webm](https://github.com/ekisu/mpv-webm)
+
 
 
 * [FSRCNNX](https://github.com/igv/FSRCNN-TensorFlow/releases)
